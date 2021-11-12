@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{50193C93-1A01-4094-8C17-ECDBA8465FED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Supershop_Management_System</RootNamespace>
+    <AssemblyName>Supershop Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business Layer\BusinessLayer.cs" />
+    <Compile Include="Data Access Layer\DataAccess.cs" />
+    <Compile Include="Presentation Layer\ManagerAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerAddProduct.Designer.cs">
+      <DependentUpon>ManagerAddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerBusinessInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerBusinessInformation.Designer.cs">
+      <DependentUpon>ManagerBusinessInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerDepreciation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerDepreciation.Designer.cs">
+      <DependentUpon>ManagerDepreciation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Employee Update Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Employee Update Info.Designer.cs">
+      <DependentUpon>Employee Update Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerUpdateInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerUpdateInfo.Designer.cs">
+      <DependentUpon>ManagerUpdateInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerAddProduct.Designer.cs">
+      <DependentUpon>OwnerAddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerDepreciation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerDepreciation.Designer.cs">
+      <DependentUpon>OwnerDepreciation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\owner_AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\owner_AddEmployee.Designer.cs">
+      <DependentUpon>owner_AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\FrontPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\FrontPage.Designer.cs">
+      <DependentUpon>FrontPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerAddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerAddEmployee.Designer.cs">
+      <DependentUpon>ManagerAddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerEmployeeInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerEmployeeInformation.Designer.cs">
+      <DependentUpon>ManagerEmployeeInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerInfoUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerInfoUpdate.Designer.cs">
+      <DependentUpon>ManagerInfoUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Owner.Designer.cs">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerBusinessInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerBusinessInfo.Designer.cs">
+      <DependentUpon>OwnerBusinessInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerInfoUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\OwnerInfoUpdate.Designer.cs">
+      <DependentUpon>OwnerInfoUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\OwnerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\OwnerProfile.Designer.cs">
+      <DependentUpon>OwnerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Owner_EmployeeInformaton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Owner_EmployeeInformaton.Designer.cs">
+      <DependentUpon>Owner_EmployeeInformaton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentation Layer\ManagerAddProduct.resx">
+      <DependentUpon>ManagerAddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManagerBusinessInformation.resx">
+      <DependentUpon>ManagerBusinessInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManagerDepreciation.resx">
+      <DependentUpon>ManagerDepreciation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Employee Update Info.resx">
+      <DependentUpon>Employee Update Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManagerUpdateInfo.resx">
+      <DependentUpon>ManagerUpdateInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\OwnerAddProduct.resx">
+      <DependentUpon>OwnerAddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\OwnerDepreciation.resx">
+      <DependentUpon>OwnerDepreciation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\owner_AddEmployee.resx">
+      <DependentUpon>owner_AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\FrontPage.resx">
+      <DependentUpon>FrontPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManagerAddEmployee.resx">
+      <DependentUpon>ManagerAddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManagerEmployeeInformation.resx">
+      <DependentUpon>ManagerEmployeeInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManagerInfoUpdate.resx">
+      <DependentUpon>ManagerInfoUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Owner.resx">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\OwnerBusinessInfo.resx">
+      <DependentUpon>OwnerBusinessInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\OwnerInfoUpdate.resx">
+      <DependentUpon>OwnerInfoUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\OwnerProfile.resx">
+      <DependentUpon>OwnerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Owner_EmployeeInformaton.resx">
+      <DependentUpon>Owner_EmployeeInformaton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Owner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owner_pic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owner_img.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,85 @@
+F:\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.exe.config
+F:\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.exe
+F:\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.pdb
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csprojAssemblyReference.cache
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.FrontPage.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Properties.Resources.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.GenerateResource.cache
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.CoreCompileInputs.cache
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.exe
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.pdb
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Owner.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerInfoUpdate.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerProfile.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Employee.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.owner_AddEmployee.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Manager.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerAddEmployee.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerEmployeeInformation.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerInfoUpdate.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerProfile.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerBusinessInfo.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Owner_EmployeeInformaton.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Employee_Update_Info.resources
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.manager_emp_update_info.resources
+F:\C# Project\Supershop Management System\Supershop Management System\bin\Debug\itextsharp.dll
+F:\C# Project\Supershop Management System\Supershop Management System\bin\Debug\itextsharp.xml
+F:\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.CopyComplete
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.exe.config
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.exe
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.pdb
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.exe
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.pdb
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\itextsharp.dll
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\itextsharp.xml
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Employee_Update_Info.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Employee.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.manager_emp_update_info.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.owner_AddEmployee.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.FrontPage.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Manager.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerAddEmployee.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerEmployeeInformation.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerInfoUpdate.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerProfile.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Owner.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerBusinessInfo.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerInfoUpdate.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerProfile.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Owner_EmployeeInformaton.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Properties.Resources.resources
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.GenerateResource.Cache
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csprojAssemblyReference.cache
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.CoreCompileInputs.cache
+C:\Users\J.I.Emon\Desktop\C#  2K18 CLASS PROJECT\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.CopyComplete
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.exe.config
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.exe
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\Supershop Management System.pdb
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\itextsharp.dll
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\bin\Debug\itextsharp.xml
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csprojAssemblyReference.cache
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Employee_Update_Info.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Employee.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.manager_emp_update_info.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.owner_AddEmployee.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.FrontPage.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Manager.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerAddEmployee.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerEmployeeInformation.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerInfoUpdate.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Owner.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerBusinessInfo.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerInfoUpdate.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerProfile.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.Owner_EmployeeInformaton.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Properties.Resources.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.GenerateResource.cache
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.CoreCompileInputs.cache
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.csproj.CopyComplete
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.exe
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop Management System.pdb
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerDepreciation.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerDepreciation.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.OwnerAddProduct.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerBusinessInformation.resources
+F:\C# project V2\C# Project\Supershop Management System\Supershop Management System\obj\Debug\Supershop_Management_System.Presentation_Layer.ManagerAddProduct.resources

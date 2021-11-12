@@ -1,0 +1,35 @@
+private void emp_items_datagridview_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if(emp_items_datagridview.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
+            {
+                emp_items_datagridview.CurrentRow.Selected = true;
+                emp_added_items.Items.Clear();
+
+
+                CellClick_emp++;
+
+
+                foreach (DataGridViewRow row in emp_items_datagridview.SelectedRows)
+                {
+                    var item = emp_items_datagridview.Rows[e.RowIndex].Cells[1].Value;
+                    var item1 = emp_items_datagridview.Rows[e.RowIndex].Cells[0].Value;
+                    var item2 = 1;
+                    var item3 = Convert.ToInt32(emp_items_datagridview.Rows[e.RowIndex].Cells[4].Value);
+
+                    item3 = CellClick_emp * item3;
+                    item2 = CellClick_emp * item2;
+
+                    var show = new ListViewItem(new[] { item.ToString(), item1.ToString(), item2.ToString(), item3.ToString() });
+
+                    emp_added_items.Items.Add(show);
+                }
+                
+
+                
+
+
+
+
+
+            }
+        }
